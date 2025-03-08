@@ -12,6 +12,12 @@
 홍영진 <br>
 <br><br><br>
 
+## 데이터
+CelebA 데이터셋: 약 20만 개의 (사람)얼굴 이미지로 구성된 대규모 데이터셋<br>
+
+https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+<br><br><br>
+
 ## Abstract
 <br>
 GAN을 이용하여 사람 얼굴 이미지를 학습하고, <br>
