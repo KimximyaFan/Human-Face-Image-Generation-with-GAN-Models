@@ -16,6 +16,11 @@
 CelebA 데이터셋: 약 20만 개의 (사람)얼굴 이미지로 구성된 대규모 데이터셋<br>
 
 https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+전처리된 데이터 : 중앙얼굴, 선글라스 제거
+
+https://drive.google.com/file/d/1-kyCAIi1s7UitQv8WK5awogUWI42I9ok/view?usp=drive_link
+
 <br><br><br>
 
 ## Abstract
