@@ -88,6 +88,7 @@ GAN의 기본 구조를 유지하면서도 합성곱과 풀링을 활용하여 �
 얼굴이 이미지 중앙으로 정렬되고 주변부가 크롭된 상태로 제공되기 때문에 관련 전처리는 따로 수행하지 않았다. <br>
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/f8a2d5f4-5f87-495b-8378-a0120307fddf)
 
 <br><br>
@@ -109,6 +110,7 @@ GAN의 기본 구조를 유지하면서도 합성곱과 풀링을 활용하여 �
 3) 입의 좌우 점이 대칭적이어야(y좌표 차이가 작아야) 한다.<br>
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/9bf6d8db-596c-4cf0-b0c8-15a03ef72669)
 
 <br><br>
@@ -160,6 +162,7 @@ IS 성능 평가의 대표적인 한계점은 다음과 같다.<br>
 IS의 단점을 개선하기 위해 개발된 성능 평가 방법은 Frechet Inception Distance, FID이다.<br>
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/1f2b1f13-5c05-440e-9dc8-02e11b6c4cae)
 <br><br><br>
 
@@ -189,6 +192,7 @@ StyleGAN의 발표 이후로 고해상도 이미지 생성에서도 큰 발전�
 ![image](https://github.com/user-attachments/assets/1791c539-feed-4e01-85cf-6c59dab49ef2)
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/5e4375a6-4b62-4aec-9225-6d0f9cd60384)
 
 <br>
